@@ -1,0 +1,7 @@
+Run main.lua
+Change big.lua file according to experiments given in thesis report
+big1.lua: CNN Architecuter 1
+big2.lua: CNN Architecuter 2
+big3.lua: CNN Architecuter 2
+training.lua creates function train() to train model
+testing.lua creates function teest() to validate model
